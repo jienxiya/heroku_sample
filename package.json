@@ -1,0 +1,30 @@
+{
+  "name": "heroku_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jienxiya/heroku_sample.git"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "Mary Jane Paller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jienxiya/heroku_sample/issues"
+  },
+  "homepage": "https://github.com/jienxiya/heroku_sample#readme",
+  "engines": {
+    "node": "10.16"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
